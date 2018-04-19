@@ -1,0 +1,3 @@
+/home/dpilutik/Test1/hello/build/CMakeFiles/edit_cache.dir
+/home/dpilutik/Test1/hello/build/CMakeFiles/rebuild_cache.dir
+/home/dpilutik/Test1/hello/build/CMakeFiles/hello.dir
